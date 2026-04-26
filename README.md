@@ -17,7 +17,7 @@ The fire button can be configured under the Options > Keyboard/Mouse (or Control
 - Colour can be changed with dyes
 
 # Credits
-- [Vehicle Weapon](https://github.com/closerex/Closer_ex-7D2D-mods) - by closer_ex
+- [Vehicle Weapon](https://github.com/closerex/Closer_ex-7D2D-mods) - by Closer_ex
 - [Quartz](https://github.com/s7092910/Quartz) - by Laydor
 - [GAZ Tiger 3D Model](https://sketchfab.com/3d-models/gaz-tiger-6ebbc912b4774d2c921c28e7bae59db3) - by Shreyash
 
