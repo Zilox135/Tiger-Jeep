@@ -21,9 +21,10 @@ The fire button can be configured under the Options > Keyboard/Mouse (or Control
 - Quartz - Laydor
 
 # Dependencies
-<span style="color:red">IMPORTANT:</span> The mod will NOT function without the dependencies installed.
-- [Custom Particle Loader](https://downgit.github.io/#/home?url=https://github.com/closerex/Closer_ex-7D2D-mods/tree/main/0-CustomParticleLoader)
-- [Custom Particle Loader Multi Explosion](https://downgit.github.io/#/home?url=https://github.com/closerex/Closer_ex-7D2D-mods/tree/main/CustomParticleLoaderMultiExplosion)
-- [Custom Player Actions Manager](https://downgit.github.io/#/home?url=https://github.com/closerex/Closer_ex-7D2D-mods/tree/main/0-CustomPlayerActionManager)
-- [Vehicle Weapon](https://downgit.github.io/#/home?url=https://github.com/closerex/Closer_ex-7D2D-mods/tree/main/VehicleWeapon)
-- [Quartz](https://github.com/s7092910/Quartz/releases/download/v7.1.1/Quartz.zip)
+> [!CAUTION]
+> **IMPORTANT**: The mod will NOT function without the dependencies installed.
+> - [Custom Particle Loader](https://downgit.github.io/#/home?url=https://github.com/closerex/Closer_ex-7D2D-mods/tree/main/0-CustomParticleLoader)
+> - [Custom Particle Loader Multi Explosion](https://downgit.github.io/#/home?url=https://github.com/closerex/Closer_ex-7D2D-mods/tree/main/CustomParticleLoaderMultiExplosion)
+> - [Custom Player Actions Manager](https://downgit.github.io/#/home?url=https://github.com/closerex/Closer_ex-7D2D-mods/tree/main/0-CustomPlayerActionManager)
+> - [Vehicle Weapon](https://downgit.github.io/#/home?url=https://github.com/closerex/Closer_ex-7D2D-mods/tree/main/VehicleWeapon)
+> - [Quartz](https://github.com/s7092910/Quartz/releases/download/v7.1.1/Quartz.zip)
