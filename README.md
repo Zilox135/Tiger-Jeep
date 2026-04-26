@@ -19,6 +19,7 @@ The fire button can be configured under the Options > Keyboard/Mouse (or Control
 # Credits
 - Vehicle Weapon - closer_ex
 - Quartz - Laydor
+- [GAZ Tiger 3D Model](https://sketchfab.com/3d-models/gaz-tiger-6ebbc912b4774d2c921c28e7bae59db3) - by Shreyash
 
 # Dependencies
 > [!CAUTION]
