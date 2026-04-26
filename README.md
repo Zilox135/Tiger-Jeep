@@ -8,7 +8,8 @@ It has a mounted machine gun turret which can be fired while driving the vehicle
 The turret fires 762mm ammo only (not special ammo) which must be in the players inventory to fire the turret. The turret can be enabled and disabled by pressing left CTRL and the number 1 key at the same time.
 
 There are 4 new vehicle mods to change the functionality of the turret. A burst fire mod which enables burst firing of the turret. A full auto mod which allows for a fully automatic turret, but uses a lot of ammo. An Incendiary ammo mod which enables fire damage for the turret. A shock ammo mod which enables shock damage for the turret.
-The fire button can be configured under the Options > Keyboard/Mouse (or Controller) settings menu under the Vehicle section!
+
+> **The fire button can be configured under the Options > Keyboard/Mouse (or Controller) settings menu under the Vehicle section!**
 
 # Features
 - Mounted machine gun turret
